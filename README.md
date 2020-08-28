@@ -5,7 +5,6 @@
 
 
 * Raíssa Carolina Vilela da Silva [604697] [raissavilela](https://github.com/raissavilela)
-3ebc7de55a037f256cb39433c5b8a1856d41e0ba
 
 ## Professor responsável
 
