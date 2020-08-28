@@ -3,7 +3,7 @@
 
 ## Aluno
 
-* Raíssa Carolina Vilela da Silva - 604697 - [raissavilela](https://github.com/raissavilela)
+* Raíssa Carolina Vilela da Silva [604697] [raissavilela](https://github.com/raissavilela)
 
 ## Professor responsável
 
